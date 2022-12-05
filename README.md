@@ -1,9 +1,11 @@
 # Air-Travel-Customer-Satisfaction
 
-Agenda:
+Within the .ipynb file you will find
 
-Models​
+Agenda of the project
 
-Comparison between models​
+Machie learning Models​
 
-Insights 
+Comparison between Supervised and Unsupervised models​
+
+Insights/ Conclusion from the Data
