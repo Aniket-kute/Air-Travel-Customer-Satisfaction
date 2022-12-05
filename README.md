@@ -4,7 +4,7 @@ Within the .ipynb file you will find
 
 Agenda of the project
 
-Machie learning Models​
+Different Machine learning Models​
 
 Comparison between Supervised and Unsupervised models​
 
